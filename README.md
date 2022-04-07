@@ -1,40 +1,37 @@
 <h1>Portfólio front-end: site de notícias</h1>
 
-<p>Esta aplicação consiste no front-end de um site de notícias, onde foi utilizado o sistema grid do Bootstrap para organizar os elementos da página de acordo com o layout proposto. Foi desenvolvida durante a unidade curricular 02 do curso Técnico em Informática para Internet do SENAC.</p>
-
+<p>Esta aplicação consiste no front-end de um site de notícias, onde foi utilizado o sistema grid do Bootstrap para organizar os elementos da página de acordo com o <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/layout/layout.png">layout proposto</a>. Foi desenvolvida durante a unidade curricular 02 do curso Técnico em Informática para Internet do SENAC.</p>
 
 <h2>Conteúdo</h2>
 <ul>
   <li>
-    Os wireframes elaborados na etapa 1 podem ser encontrados nas duas branches do projeto, basta clicar em 
-    <a href="https://github.com/mateusDesteFabri/portfolio_front-end_loja_produtos_naturais_UC02/tree/main/wireframes_figma">wireframes_figma</a> e escolher
-    visualizar os wireframes das páginas completas, ou os wireframes de cada um dos elementos que compõem as páginas.
+    Em <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/tree/main/layout">layout</a> pode-se encontrar o wireframe que norteou o processo de organização dos elementos da página. 
   </li>
   <li>
-    Na branch main pode-se observar os códigos desenvolvidos na etapa 2, bastando clicar em 
-    <a href="https://github.com/mateusDesteFabri/portfolio_front-end_loja_produtos_naturais_UC02/tree/main/paginas">paginas</a>
+    Em <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/tree/main/res">res</a> pode-se encontrar as folhas de estilo CSS, os arquivos do Bootstrap e as imagens utilizadas na aplicação.
   </li>
   <li>
-    Na branch <a href="https://github.com/mateusDesteFabri/portfolio_front-end_loja_produtos_naturais_UC02/tree/com_javaScript">com_javaScript</a>
-    pode-se observar as modificações no código realizadas na etapa 3, bastando clicar em 
-    <a href="https://github.com/mateusDesteFabri/portfolio_front-end_loja_produtos_naturais_UC02/tree/com_javaScript/paginas">paginas</a>
+    Em <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/tree/main/screenshots">screenshots</a> pode-se ver capturas de tela da aplicação em funcionamento. 
+  </li>
+  <li>
+    Em <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/index.html">index.html</a> pode-se ver o código-fonte da aplicação.
   </li>
 </ul>
 
 <h2>Rodando o projeto</h2>
-<p>Para rodar os arquivos .html em um navegador e vê-los sendo executados conforme foram programados, siga os seguintes passos:
+<p>Para rodar o arquivo index.html em um navegador e vê-lo sendo executado conforme foi programado, siga os seguintes passos:</p>
 <ol>
   <li>
-    Escolher uma branch do projeto e fazer o seu download
+    Fazer o download do projeto completo
   </li>
   <li>
     Se a pasta baixada estiver compactada, por favor, considerar descompactá-la
   </li>
   <li>
-    Acessar os arquivos .html do projeto
+    Acessar o arquivo index.html
   </li>
   <li>
-    Clicar sobre um destes arquivos com o botão direito do mouse, clicar em "Abrir com" e escolher o navegador de sua preferência
+    Clicar sobre ele com o botão direito do mouse, clicar em "Abrir com" e escolher o navegador de sua preferência
   </li>
   <li>
     A página se abrirá no navegador, teste-a à vontade!
@@ -43,15 +40,14 @@
 
 <h2>Capturas de tela</h2>
 
-<img src="https://github.com/mateusDesteFabri/portfolio_front-end_loja_produtos_naturais_UC02/blob/main/wireframes_figma/wireframes_completo/P%C3%A1gina%20Principal.jpg" alt="Página principal" width="500">
-<img src="https://github.com/mateusDesteFabri/portfolio_front-end_loja_produtos_naturais_UC02/blob/main/wireframes_figma/wireframes_completo/P%C3%A1gina%20de%20Detalhes.jpg" alt="Página de detalhes" width="500">
+<img src="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/screenshots/1_screenshot.png" alt="Parte de cima da página" width="700">
+<img src="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/screenshots/2_screenshot.png" alt="Parte de baixo da página" width="700">
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
-  <li><a href="https://www.figma.com/">Figma</a></li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript</li>
+  <li><a href="https://getbootstrap.com.br/">Bootstrap</a></li>
 </ul>
 
 <h2>Autor</h2>
