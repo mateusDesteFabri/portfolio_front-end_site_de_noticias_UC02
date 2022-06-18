@@ -1,6 +1,9 @@
+<h1>&#128679; CÓDIGO EM MANUTENÇÃO &#128679;</h1>
+<p>O código deste projeto está em manutenção. Melhorias estão sendo implementadas.</p>
+
 <h1>Portfólio front-end: site de notícias</h1>
 
-<p>Esta aplicação consiste no front-end de um site de notícias, onde foi utilizado o sistema grid do Bootstrap para organizar os elementos da página de acordo com o <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/layout/layout.png">layout proposto</a>. Foi desenvolvida durante a unidade curricular 02 do curso Técnico em Informática para Internet do SENAC.</p>
+<p>Esta aplicação consiste no front-end de um site de notícias, onde foi utilizado o sistema grid do Bootstrap para organizar os elementos da página de acordo com o <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/layout/layout.png">layout proposto</a>.</p>
 
 <h2>Conteúdo</h2>
 <ul>
