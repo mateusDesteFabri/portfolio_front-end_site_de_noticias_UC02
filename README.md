@@ -1,34 +1,25 @@
-<h1>&#128679; CÓDIGO EM MANUTENÇÃO &#128679;</h1>
-<p>O código deste projeto está em manutenção. Melhorias estão sendo implementadas.</p>
-
 <h1>Portfólio front-end: site de notícias</h1>
 
-<p>Esta aplicação consiste no front-end de um site de notícias, onde foi utilizado o sistema grid do Bootstrap para organizar os elementos da página de acordo com o <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/layout/layout.png">layout proposto</a>.</p>
+<p>Esta aplicação consiste no front-end de um site de notícias, onde foi utilizado o sistema grid do Bootstrap para organizar os elementos da página de acordo com o layout proposto.</p>
 
 <h2>Conteúdo</h2>
 <ul>
   <li>
-    Em <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/tree/main/layout">layout</a> pode-se encontrar o wireframe que norteou o processo de organização dos elementos da página. 
+    O wireframe que norteou o processo de desenvolvimento pode ser encontrado em <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/layout/layout.png">layout</a>
   </li>
   <li>
-    Em <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/tree/main/res">res</a> pode-se encontrar as folhas de estilo CSS, os arquivos do Bootstrap e as imagens utilizadas na aplicação.
-  </li>
-  <li>
-    Em <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/tree/main/screenshots">screenshots</a> pode-se ver capturas de tela da aplicação em funcionamento. 
-  </li>
-  <li>
-    Em <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/index.html">index.html</a> pode-se ver o código-fonte da aplicação.
+    Os códigos desenvolvidos podem ser observados clicando em <a href="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/tree/main/root">root</a> da branch main
   </li>
 </ul>
 
 <h2>Rodando o projeto</h2>
-<p>Para rodar o arquivo index.html em um navegador e vê-lo sendo executado conforme foi programado, siga os seguintes passos:</p>
+<p>Para rodar o arquivo index.html em um navegador, será necessário:</p>
 <ol>
   <li>
-    Fazer o download do projeto completo
+    Fazer o download do projeto que está na branch main
   </li>
   <li>
-    Se a pasta baixada estiver compactada, por favor, considerar descompactá-la
+    Descompactar a pasta
   </li>
   <li>
     Acessar o arquivo index.html
@@ -43,8 +34,10 @@
 
 <h2>Capturas de tela</h2>
 
-<img src="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/screenshots/1_screenshot.png" alt="Parte de cima da página" width="700">
-<img src="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/screenshots/2_screenshot.png" alt="Parte de baixo da página" width="700">
+<p>index.html:</p>
+
+<img src="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/screenshots/screenshot1.png" alt="Parte de cima da página" width="700">
+<img src="https://github.com/mateusDesteFabri/portfolio_front-end_site_de_noticias_UC02/blob/main/screenshots/screenshot2.png" alt="Parte de baixo da página" width="700">
 
 <h2>Tecnologias utilizadas</h2>
 <ul>
@@ -57,6 +50,6 @@
 <p>Feito por Mateus Destefani Fabri</p>
 <p>
   <a href="https://www.linkedin.com/in/mateus-destefani-fabri-44b205232/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn">
   </a>
 </p>
